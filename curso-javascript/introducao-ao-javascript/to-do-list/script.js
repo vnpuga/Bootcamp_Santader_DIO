@@ -27,3 +27,5 @@ function addTask(description) {
 
 	taskList.appendChild(taskContainer);
 }
+
+// todo o projeto to-do-list é da Stephany Nusch, disponibilizado para estudo neste bootcamp, através do seu canal no github
