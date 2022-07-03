@@ -1,11 +1,11 @@
 // exemplos
 
 // função com typescript
-function soma (a: number, b: number) {
+function somatorio (a: number, b: number) {
   return a + b;
 };
 
-console.log(soma(1, 2));
+console.log(somatorio(1, 2));
 
 // -------- * ---------- //
 // types e interfaces
